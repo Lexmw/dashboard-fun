@@ -1,0 +1,1 @@
+{"version":3,"sources":["custom.scss"],"names":[],"mappings":"AAAA,EACI,sBAGJ,KACI,wBAAA,CACA","file":"app.861ee484.css","sourceRoot":"../public","sourcesContent":["* {\n    box-sizing: border-box;\n}\n\nbody{\n    background-color: #8EC5FC;\n    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);\n\n}"]}
